@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at DE10_LITE_Golden_Top.v(268): always construct contains both blocking and non-blocking assignments File: C:/Users/SEDOY/Desktop/HW_DE_10/DE10_LITE_Golden_Top.v Line: 268
+Info (10281): Verilog HDL Declaration information at spi_param.h(8): object "READ_MODE" differs only in case from object "read_mode" in the same scope File: C:/Users/SEDOY/Desktop/HW_DE_10/spi_param.h Line: 8
+Warning (10273): Verilog HDL warning at altera_modular_adc_control_fsm.v(718): extended using "x" or "z" File: C:/Users/SEDOY/Desktop/HW_DE_10/db/ip/adc_contr/submodules/altera_modular_adc_control_fsm.v Line: 718
